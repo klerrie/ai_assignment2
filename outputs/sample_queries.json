@@ -1,25 +1,29 @@
 [
   {
     "user_question": "How do employees request time off?",
-    "system_answer": "This is a placeholder. Run 'python src/run_sample_queries.py' to generate actual sample queries with real answers from the RAG system.",
+    "system_answer": "Employees can request time off by logging into their employee portal and navigating to the \"Time Off\" section. They should click \"Request Time Off,\" select the type of leave (vacation, sick, personal, etc.), enter the start and end dates, and provide a brief reason for the request. The request will be automatically routed to the employee's direct supervisor for approval, and employees will receive email notifications regarding the status of their request.",
     "chunks_related": [
-      "Placeholder chunk 1 - will be replaced when script is run",
-      "Placeholder chunk 2 - will be replaced when script is run"
+      "Q: How do employees request time off?",
+      "A: Employees can request time off by logging into their employee portal and navigating to the \"Time Off\" section. Click \"Request Time Off\" and select the type of leave (vacation, sick, personal, etc.), enter the start and end dates, and provide a brief reason for the request. The request will be automatically routed to the employee's direct supervisor for approval. Employees will receive email notifications when their request is approved, denied, or requires additional information.",
+      "Q: How is time tracked for hourly employees?"
     ]
   },
   {
     "user_question": "What documents are required during the onboarding process?",
-    "system_answer": "This is a placeholder. Run 'python src/run_sample_queries.py' to generate actual sample queries with real answers from the RAG system.",
+    "system_answer": "The specific documents required during the onboarding process are not provided in the context.",
     "chunks_related": [
-      "Placeholder chunk 1 - will be replaced when script is run"
+      "Q: What documents are required during the onboarding process?",
+      "Q: How do I initiate the onboarding process for a new employee?",
+      "Q: How long does the onboarding process typically take?\nA: The standard onboarding process is designed to be completed within the first week of employment. However, the timeline can vary based on the completeness of submitted documents and the specific requirements of the position. Most employees complete the core onboarding tasks within 3-5 business days. The system will send automated reminders if any tasks remain incomplete after 48 hours."
     ]
   },
   {
     "user_question": "How does the payroll processing work?",
-    "system_answer": "This is a placeholder. Run 'python src/run_sample_queries.py' to generate actual sample queries with real answers from the RAG system.",
+    "system_answer": "Payroll processing is automated and operates based on the company's pay schedule, which can be weekly, bi-weekly, semi-monthly, or monthly. The system calculates gross pay by considering hours worked, salary, overtime, bonuses, and commissions. It then applies deductions for taxes, benefits, retirement contributions, and other withholdings. Payroll administrators review and approve the payroll before processing. Once approved, direct deposits are initiated, and pay stubs are automatically generated and made available to employees.",
     "chunks_related": [
-      "Placeholder chunk 1 - will be replaced when script is run"
+      "Q: How does the payroll processing work?",
+      "A: Payroll processing is automated and runs according to your company's pay schedule (weekly, bi-weekly, semi-monthly, or monthly). The system calculates gross pay based on hours worked, salary, overtime, bonuses, and commissions. It then applies deductions for taxes, benefits, retirement contributions, and other withholdings. Payroll administrators can review and approve payroll before it is processed",
+      ". Once approved, direct deposits are initiated and pay stubs are automatically generated and made available to employees."
     ]
   }
 ]
-
