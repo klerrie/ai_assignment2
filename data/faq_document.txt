@@ -1,0 +1,122 @@
+HR SaaS Platform - Comprehensive FAQ Documentation
+
+Welcome to our HR SaaS platform FAQ. This document covers frequently asked questions about our platform's policies, procedures, features, and best practices. Our goal is to help you understand and effectively use all the tools and features available to you.
+
+EMPLOYEE ONBOARDING AND OFFBOARDING
+
+Q: How do I initiate the onboarding process for a new employee?
+A: To begin onboarding a new employee, navigate to the Employees section in your dashboard. Click on "Add New Employee" and fill in the required information including name, email address, job title, department, and start date. Once you submit the form, the system will automatically generate an onboarding checklist and send an invitation email to the new employee. The employee will receive access to their employee portal where they can complete required forms, upload documents, and review company policies.
+
+Q: What documents are required during the onboarding process?
+A: The required documents vary by position and location, but typically include: government-issued identification (driver's license or passport), Social Security card or equivalent, signed employment contract, tax forms (W-4 in the US or equivalent), direct deposit authorization form, emergency contact information, and signed acknowledgment of company policies including the employee handbook. Some positions may require additional documents such as professional licenses, certifications, or background check results. All documents can be uploaded directly through the employee portal.
+
+Q: How long does the onboarding process typically take?
+A: The standard onboarding process is designed to be completed within the first week of employment. However, the timeline can vary based on the completeness of submitted documents and the specific requirements of the position. Most employees complete the core onboarding tasks within 3-5 business days. The system will send automated reminders if any tasks remain incomplete after 48 hours.
+
+Q: What is the procedure for offboarding an employee?
+A: To offboard an employee, go to the employee's profile page and select "Initiate Offboarding" from the actions menu. This will trigger a series of automated tasks including: revocation of system access, collection of company equipment, exit interview scheduling, final paycheck processing, COBRA notification (if applicable), and termination of benefits. The HR team will be notified and can track the completion of each offboarding task through the dashboard.
+
+LEAVE MANAGEMENT AND TIME TRACKING
+
+Q: How do employees request time off?
+A: Employees can request time off by logging into their employee portal and navigating to the "Time Off" section. Click "Request Time Off" and select the type of leave (vacation, sick, personal, etc.), enter the start and end dates, and provide a brief reason for the request. The request will be automatically routed to the employee's direct supervisor for approval. Employees will receive email notifications when their request is approved, denied, or requires additional information.
+
+Q: What types of leave are available?
+A: Our platform supports multiple leave types including: vacation time, sick leave, personal days, bereavement leave, jury duty, military leave, FMLA (Family and Medical Leave Act), parental leave, sabbatical, and unpaid leave. The availability of specific leave types depends on your company's policies and the employee's location. Each leave type may have different accrual rates, maximum balances, and approval requirements.
+
+Q: How is time tracked for hourly employees?
+A: Hourly employees can clock in and out using the mobile app or web portal. The system supports multiple clock-in methods including GPS verification for remote workers, biometric authentication, and PIN-based entry. Employees can view their time entries, edit timesheets (subject to manager approval), and submit timesheets for approval at the end of each pay period. Managers receive notifications when timesheets are submitted and can approve or request corrections.
+
+Q: Can employees view their leave balance?
+A: Yes, employees can view their current leave balances at any time through the employee portal. The dashboard displays available vacation days, sick days, and other leave types. The system also shows accrual rates, upcoming accruals, and historical usage. Leave balances are updated in real-time as requests are approved or denied.
+
+PAYROLL AND COMPENSATION
+
+Q: How does the payroll processing work?
+A: Payroll processing is automated and runs according to your company's pay schedule (weekly, bi-weekly, semi-monthly, or monthly). The system calculates gross pay based on hours worked, salary, overtime, bonuses, and commissions. It then applies deductions for taxes, benefits, retirement contributions, and other withholdings. Payroll administrators can review and approve payroll before it is processed. Once approved, direct deposits are initiated and pay stubs are automatically generated and made available to employees.
+
+Q: When are employees paid?
+A: Pay dates are determined by your company's pay schedule. Common schedules include: weekly (every Friday), bi-weekly (every other Friday), semi-monthly (1st and 15th of each month), or monthly (last business day of the month). Employees can view their pay schedule and upcoming pay dates in their employee portal. The system sends email reminders 2 days before each pay date.
+
+Q: How can employees access their pay stubs?
+A: Employees can access their pay stubs by logging into the employee portal and navigating to the "Payroll" section. All historical pay stubs are stored and can be downloaded as PDF files. Employees can also set up email notifications to receive pay stubs automatically each pay period. Pay stubs include detailed information about gross pay, deductions, taxes, and net pay.
+
+Q: What payment methods are supported?
+A: The platform supports direct deposit to checking or savings accounts. Employees can add multiple bank accounts and specify the percentage or fixed amount to deposit into each account. The system also supports paper checks for employees who prefer not to use direct deposit. All payment methods are configured through the employee portal under "Payment Settings."
+
+BENEFITS ADMINISTRATION
+
+Q: How do employees enroll in benefits?
+A: Benefits enrollment occurs during open enrollment periods or when employees experience qualifying life events (marriage, birth of a child, loss of coverage, etc.). During open enrollment, employees receive email notifications with enrollment instructions. They can log into the employee portal, review available benefit options, compare plans, and make selections. The system provides cost comparisons, coverage details, and allows employees to add dependents. All selections must be submitted by the enrollment deadline.
+
+Q: What benefits are typically available?
+A: Common benefits include: medical insurance (multiple plan options), dental insurance, vision insurance, life insurance, disability insurance (short-term and long-term), retirement plans (401k, 403b), flexible spending accounts (FSA), health savings accounts (HSA), commuter benefits, and employee assistance programs (EAP). The specific benefits available depend on your company's benefits package.
+
+Q: Can employees make changes to their benefits outside of open enrollment?
+A: Yes, employees can make changes during special enrollment periods triggered by qualifying life events such as marriage, divorce, birth or adoption of a child, death of a spouse or dependent, loss of other coverage, or change in employment status. Employees must report qualifying life events within 30 days and provide supporting documentation. The system will guide employees through the process and notify them of any required documents.
+
+Q: How are benefit deductions handled?
+A: Benefit deductions are automatically calculated and applied to each paycheck. The system supports pre-tax and post-tax deductions based on the benefit type. Employees can view their current benefit elections and associated costs in the employee portal under "Benefits." All deductions are clearly itemized on pay stubs.
+
+PERFORMANCE MANAGEMENT
+
+Q: How does the performance review process work?
+A: The performance review process is configurable based on your company's review cycle (annual, semi-annual, or quarterly). Managers can initiate reviews by selecting employees and choosing a review template. The system supports self-assessments, manager evaluations, peer reviews, and 360-degree feedback. Review forms can include goals, competencies, achievements, areas for improvement, and development plans. Once completed, reviews are shared with employees who can acknowledge and add comments.
+
+Q: Can employees set and track goals?
+A: Yes, employees can set individual goals through the employee portal. Goals can be aligned with company objectives, department targets, or personal development plans. The system allows employees to set SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) and track progress throughout the review period. Managers can view and comment on employee goals, and goals can be updated or modified as needed.
+
+Q: What is the 360-degree feedback feature?
+A: The 360-degree feedback feature allows employees to receive feedback from multiple sources including managers, peers, direct reports, and external stakeholders. Employees can request feedback from specific individuals, and the system sends automated invitations. Feedback is collected anonymously (configurable) and compiled into a comprehensive report. This provides a well-rounded view of an employee's performance and areas for development.
+
+COMPLIANCE AND REPORTING
+
+Q: What compliance features does the platform offer?
+A: The platform includes comprehensive compliance features including: EEO (Equal Employment Opportunity) reporting, OSHA recordkeeping, I-9 verification and storage, FLSA (Fair Labor Standards Act) compliance tracking, state and local labor law compliance, data privacy compliance (GDPR, CCPA), and audit trail logging. The system automatically generates required reports and sends reminders for compliance deadlines.
+
+Q: How are I-9 forms managed?
+A: I-9 forms are managed electronically through the platform. New employees complete Section 1 of the I-9 form during onboarding. HR representatives then complete Section 2 after reviewing acceptable identification documents. The system stores I-9 forms securely and tracks expiration dates for temporary work authorization documents. Automated reminders are sent 90 days, 60 days, and 30 days before expiration.
+
+Q: What reporting capabilities are available?
+A: The platform offers extensive reporting capabilities including: headcount reports, turnover analysis, time and attendance summaries, payroll reports, benefits enrollment statistics, performance review completion rates, compliance reports, custom reports using drag-and-drop report builder, and scheduled report delivery via email. All reports can be exported to Excel, PDF, or CSV formats.
+
+SECURITY AND DATA PRIVACY
+
+Q: How is employee data protected?
+A: Employee data is protected through multiple security measures including: end-to-end encryption for data in transit and at rest, role-based access controls ensuring employees only see data they're authorized to view, multi-factor authentication (MFA) for all user accounts, regular security audits and penetration testing, SOC 2 Type II compliance, GDPR and CCPA compliance, regular data backups with point-in-time recovery, and comprehensive audit logging of all data access and modifications.
+
+Q: Who has access to employee information?
+A: Access to employee information is controlled through role-based permissions. Employees can view and edit their own information. Managers can view information for their direct reports. HR administrators have broader access based on their specific role and responsibilities. The system logs all access to sensitive information, and administrators can run access reports to see who has viewed what information and when.
+
+Q: Can employees export their own data?
+A: Yes, employees can request a copy of all their personal data stored in the system. This feature supports GDPR "right to access" requirements. Employees can submit a data export request through the employee portal, and the system will generate a comprehensive data file within 30 days. The export includes all personal information, employment history, performance reviews, time records, and payroll information.
+
+TECHNICAL SUPPORT AND TRAINING
+
+Q: How do I get technical support?
+A: Technical support is available through multiple channels: in-app help center with searchable articles and tutorials, email support at support@company.com with response within 24 hours, live chat support available Monday through Friday 8 AM to 6 PM EST, phone support for critical issues, and video tutorials and webinars. Premium support plans offer faster response times and dedicated account managers.
+
+Q: Is training available for administrators?
+A: Yes, comprehensive training is available for HR administrators and managers. Training options include: live onboarding sessions for new customers, recorded video tutorials covering all platform features, monthly webinars on advanced topics and best practices, certification programs for power users, and dedicated customer success managers who provide ongoing guidance and support.
+
+Q: Can the platform be customized for our company?
+A: Yes, the platform offers extensive customization options including: custom fields for employee profiles, configurable workflows for approvals and processes, branded employee portal with company logo and colors, custom email templates for notifications, configurable permission roles, custom report builder, and API access for integrations with other systems. Enterprise customers can work with our implementation team to create fully customized solutions.
+
+INTEGRATIONS AND API
+
+Q: What systems can the platform integrate with?
+A: The platform integrates with popular business systems including: accounting software (QuickBooks, Xero, Sage), applicant tracking systems (ATS), background check providers, benefits carriers, time clock hardware, single sign-on (SSO) providers, Slack and Microsoft Teams for notifications, and many more through our REST API. Pre-built integrations are available in the integrations marketplace, and custom integrations can be developed using our API.
+
+Q: Is there an API available for custom integrations?
+A: Yes, we provide a comprehensive REST API that allows you to integrate the platform with your existing systems. The API supports authentication via API keys, webhooks for real-time event notifications, comprehensive documentation with code examples, and a developer sandbox for testing. API access is available on Professional and Enterprise plans.
+
+MOBILE ACCESS
+
+Q: Is there a mobile app available?
+A: Yes, native mobile apps are available for both iOS and Android devices. The mobile app allows employees to: view and update their profile information, request time off, view pay stubs and time records, clock in and out (for hourly employees), access the company directory, receive push notifications for important updates, and complete required tasks and acknowledgments. The app is free to download from the App Store and Google Play.
+
+Q: What features are available on the mobile app?
+A: The mobile app provides full functionality for employees including: time tracking with GPS verification, leave requests and balance viewing, pay stub access, benefits information and enrollment, company directory and org chart, document access and signing, performance goal tracking, and push notifications for approvals and updates. Managers can also approve time off requests and timesheets directly from the mobile app.
+
+This comprehensive FAQ document covers the most common questions about our HR SaaS platform. For additional support, please contact our customer success team or visit our help center.
+

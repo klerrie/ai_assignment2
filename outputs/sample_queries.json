@@ -1,0 +1,25 @@
+[
+  {
+    "user_question": "How do employees request time off?",
+    "system_answer": "This is a placeholder. Run 'python src/run_sample_queries.py' to generate actual sample queries with real answers from the RAG system.",
+    "chunks_related": [
+      "Placeholder chunk 1 - will be replaced when script is run",
+      "Placeholder chunk 2 - will be replaced when script is run"
+    ]
+  },
+  {
+    "user_question": "What documents are required during the onboarding process?",
+    "system_answer": "This is a placeholder. Run 'python src/run_sample_queries.py' to generate actual sample queries with real answers from the RAG system.",
+    "chunks_related": [
+      "Placeholder chunk 1 - will be replaced when script is run"
+    ]
+  },
+  {
+    "user_question": "How does the payroll processing work?",
+    "system_answer": "This is a placeholder. Run 'python src/run_sample_queries.py' to generate actual sample queries with real answers from the RAG system.",
+    "chunks_related": [
+      "Placeholder chunk 1 - will be replaced when script is run"
+    ]
+  }
+]
+
